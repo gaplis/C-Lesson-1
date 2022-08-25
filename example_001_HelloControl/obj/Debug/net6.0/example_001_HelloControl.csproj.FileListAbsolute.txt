@@ -1,0 +1,15 @@
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\bin\Debug\net6.0\example_001_HelloControl.exe
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\bin\Debug\net6.0\example_001_HelloControl.deps.json
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\bin\Debug\net6.0\example_001_HelloControl.runtimeconfig.json
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\bin\Debug\net6.0\example_001_HelloControl.dll
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\bin\Debug\net6.0\example_001_HelloControl.pdb
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.AssemblyInfoInputs.cache
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.AssemblyInfo.cs
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.dll
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\refint\example_001_HelloControl.dll
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.pdb
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\example_001_HelloControl.genruntimeconfig.cache
+C:\Users\HOME\Downloads\Examples\example_001_HelloControl\obj\Debug\net6.0\ref\example_001_HelloControl.dll
